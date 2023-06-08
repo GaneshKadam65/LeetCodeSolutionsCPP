@@ -3,6 +3,8 @@ LeetCode has emerged as one of the most popular platforms for honing programming
 
 C++ is a powerful and versatile language known for its performance, efficiency, and extensive standard library. It provides a rich set of data structures and algorithms, making it an ideal choice for tackling LeetCode problems. With its support for object-oriented programming, templates, and low-level memory manipulation, C++ offers flexibility and control to optimize your solutions.
 
+Udemy Course - https://www.udemy.com/course/data-structures-and-algorithms-using-c-programming/?referralCode=60F9DBC9EDCFD801216A
+
 When approaching LeetCode problems, it is essential to understand the problem statement thoroughly and identify the underlying data structures and algorithms that can be applied. LeetCode problems cover a wide range of topics, including arrays, strings, linked lists, trees, graphs, dynamic programming, and more. Each problem requires a unique approach, and C++ provides various tools to solve them efficiently.
 
 To implement LeetCode solutions in C++, you can leverage the standard library's data structures such as vectors, arrays, strings, sets, maps, and queues. These containers offer convenient functions for manipulation, traversal, and searching. Additionally, C++ provides a comprehensive set of algorithms like sorting, searching, and manipulating ranges, which can significantly simplify your code and improve its readability.
